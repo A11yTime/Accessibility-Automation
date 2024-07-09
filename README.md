@@ -8,4 +8,4 @@
 * npm install --save selenium-webdriver chromedriver geckodriver (To install selenium webdriver, chromedriver and geckodriver)
 * Create a folder inside the directory
 * Creat a file inside the folder with js extension
-* Here you go you are allset to run the Test --- Happy Testing 
+* Here you go you are all set to run the Test --- Happy Testing 
